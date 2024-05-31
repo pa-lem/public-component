@@ -7,7 +7,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: './lib/index.ts',
-      formats: ['es']
+      formats: ['umd'],
+      name: "plugin"
     },
     rollupOptions: {
       external: ['react', 'react/jsx-runtime'],
