@@ -1,1 +1,0 @@
-(function(e,n){typeof exports=="object"&&typeof module<"u"?module.exports=n(require("react/jsx-runtime")):typeof define=="function"&&define.amd?define(["react/jsx-runtime"],n):(e=typeof globalThis<"u"?globalThis:e||self,e.plugin=n(e.jsxRuntime))})(this,function(e){"use strict";return()=>e.jsx("div",{children:"Remote component here"})});
