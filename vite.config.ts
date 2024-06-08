@@ -20,14 +20,5 @@ export default defineConfig({
     target: 'esnext',
     minify: false,
     cssCodeSplit: false,
-    // lib: {
-    //   entry: './lib/RemoteComponent/index.ts',
-    //   formats: ['es'],
-    //   name: "plugin"
-    // },
-    // rollupOptions: {
-    //   external: ['react', 'react/jsx-runtime'],
-    //   // external: ['react'],
-    // }
   }
 })
