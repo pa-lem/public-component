@@ -1,5 +1,5 @@
 import './App.css'
-import { RemoteComponent } from '../lib'
+import RemoteComponent from '../lib/RemoteComponent'
 
 function App() {
   return (

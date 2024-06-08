@@ -1,1 +1,3 @@
-export * from "./RemoteComponent";
+import RemoteComponent from "./RemoteComponent";
+
+export default RemoteComponent
